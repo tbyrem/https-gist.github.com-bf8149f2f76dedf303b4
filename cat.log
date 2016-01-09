@@ -1,0 +1,31 @@
+Device  : LGE LG-D851 (g3_tmo_us)
+Android : 5.0.1 (15227151285fc, LRX21Y)
+Memory  : 58M (0.51% used, 256M max)
+Memclass: 256
+OS Host : LGEARND17B2
+App     : Signal 3.9.1
+
+--------- beginning of main
+W/PartProvider(  690): onCreate()
+D/ContextHelper(  690): convertTheme. context->name=org.thoughtcrime.securesms themeResourceId=2131427593
+I/PhoneWindow(  690): [generateLayout] setColorNavigationBar => color=0x ff000001
+D/PhoneWindowEx(  690): [PWEx][generateLayout] setNavigationBarColor2 : colors=0xff000000
+I/PhoneWindow(  690): [setNavigationBarColor2] color=0x ff000000
+I/CliptrayUtils(  690): CliptrayUtils created!! mTextView = android.support.v7.widget.AppCompatEditText{3c1feeed VFED..C. ......I. 0,0-0,0 #7f100127 app:id/log_preview}
+D/BubblePopupHelper(  690): isShowingBubblePopup : false
+I/CliptrayUtils(  690): CliptrayUtils created!! mTextView = android.support.v7.widget.AppCompatEditText{2608241b VFED..C. ......I. 0,0-0,0 #7f100127 app:id/log_preview}
+D/BubblePopupHelper(  690): isShowingBubblePopup : false
+D/OpenGLRenderer(  690): Render dirty regions requested: true
+I/Adreno-EGL(  690): <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+I/Adreno-EGL(  690): OpenGL ES Shader Compiler Version: E031.25.03.00
+I/Adreno-EGL(  690): Build Date: 12/24/14 Wed
+I/Adreno-EGL(  690): Local Branch: LA.BF.1.1.1_RB1_AU001_20141224_1077123
+I/Adreno-EGL(  690): Remote Branch: 
+I/Adreno-EGL(  690): Local Patches: 
+I/Adreno-EGL(  690): Reconstruct Branch: 
+I/OpenGLRenderer(  690): Initialized EGL, version 1.4
+D/OpenGLRenderer(  690): Enabling debug mode 0
+D/Atlas   (  690): Validating map...
+D/Scrubber(  690): scrubbing input
+D/BubblePopupHelper(  690): isShowingBubblePopup : false
+D/BubblePopupHelper(  690): isShowingBubblePopup : false
